@@ -7,6 +7,6 @@
    <GlobalVariableEntity>
       <description></description>
       <initValue>'https://restful-booker.herokuapp.com/apidoc/index.html'</initValue>
-      <name>utl_api_main</name>
+      <name>utl_apidoc</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
