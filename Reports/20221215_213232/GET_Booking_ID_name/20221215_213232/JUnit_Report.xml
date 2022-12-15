@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="GET_Booking_ID_name" time="6.153" tests="1" failures="0" errors="0">
+   <testsuite name="GET_Booking_ID_name" tests="1" failures="0" errors="0" time="6.153" skipped="0" timestamp="2022-12-15 21:32:36" hostname="User - host.docker.internal" id="Test Suites/GET_Booking_ID_name">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\User\\git\\api-katalon\\Reports\\20221215_213232\\GET_Booking_ID_name\\20221215_213232"/>
+         <property name="logFiles" value="C:\\Users\\User\\git\\api-katalon\\Reports\\20221215_213232\\GET_Booking_ID_name\\20221215_213232\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="User - host.docker.internal"/>
+         <property name="hostAddress" value="192.168.100.13"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.5.2.208"/>
+      </properties>
+      <testcase name="Test Cases/GET_Booking_ID_name" time="5.596" classname="Test Cases/GET_Booking_ID_name" status="PASSED">
+         <system-out><![CDATA[2022-12-15 21:32:37 - [TEST_CASE][PASSED] - Test Cases/GET_Booking_ID_name: Test Cases/GET_Booking_ID_name
+
+2022-12-15 21:32:37 - [TEST_STEP][PASSED] - sendRequest(findTestObject("GET_Booking_ID_name")): Send request successfully
+
+2022-12-15 21:32:42 - [MESSAGE][INFO] - HAR: C:\Users\User\git\api-katalon\Reports\20221215_213232\GET_Booking_ID_name\20221215_213232\requests\main\0.har
+
+2022-12-15 21:32:42 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-12-15 21:32:36 - [TEST_SUITE][PASSED] - GET_Booking_ID_name: Test Cases/GET_Booking_ID_name]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

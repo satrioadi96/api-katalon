@@ -38,6 +38,7 @@ RequestObject request = WSResponseManager.getInstance().getCurrentRequest()
 
 ResponseObject response = WSResponseManager.getInstance().getCurrentResponse()
 
-//WSBuiltInKeywords.verifyElementPropertyValue(response, contentOf, withPrecision, FailureHandling.STOP_ON_FAILURE)</verificationScript>
+
+println(WS.getElementPropertyValue(response, &quot;bookingid&quot;))</verificationScript>
    <wsdlAddress></wsdlAddress>
 </WebServiceRequestEntity>

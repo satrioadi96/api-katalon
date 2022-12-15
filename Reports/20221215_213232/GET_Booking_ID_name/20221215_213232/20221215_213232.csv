@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+GET_Booking_ID_name,,,,2022-12-15 21:32:36,2022-12-15 21:32:42,6.153s,PASSED
+,,,,,,,
+Test Cases/GET_Booking_ID_name,,,,2022-12-15 21:32:37,2022-12-15 21:32:42,5.596s,PASSED
+"sendRequest(findTestObject(""GET_Booking_ID_name""))",,,,2022-12-15 21:32:37,2022-12-15 21:32:42,4.914s,PASSED
