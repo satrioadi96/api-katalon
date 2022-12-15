@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_GET_Ping_HealthCheck,,,,2022-12-15 16:44:41,2022-12-15 16:44:48,6.760s,PASSED
+,,,,,,,
+Test Cases/GET_Ping_HealthCheck,,,,2022-12-15 16:44:42,2022-12-15 16:44:48,6.225s,PASSED
+"sendRequest(findTestObject(""GET_Ping_HealthCheck""))",,,,2022-12-15 16:44:43,2022-12-15 16:44:48,5.413s,PASSED
