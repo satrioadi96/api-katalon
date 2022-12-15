@@ -37,6 +37,7 @@ import internal.GlobalVariable as GlobalVariable
 RequestObject request = WSResponseManager.getInstance().getCurrentRequest()
 
 ResponseObject response = WSResponseManager.getInstance().getCurrentResponse()
-</verificationScript>
+
+//WSBuiltInKeywords.verifyElementPropertyValue(response, contentOf, withPrecision, FailureHandling.STOP_ON_FAILURE)</verificationScript>
    <wsdlAddress></wsdlAddress>
 </WebServiceRequestEntity>

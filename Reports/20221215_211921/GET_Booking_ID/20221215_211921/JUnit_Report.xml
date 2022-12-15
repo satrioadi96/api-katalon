@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="GET_Booking_ID" time="19.155" tests="3" failures="0" errors="0">
+   <testsuite name="GET_Booking_ID" tests="3" failures="0" errors="0" time="19.155" skipped="0" timestamp="2022-12-15 21:19:26" hostname="User - host.docker.internal" id="Test Suites/GET_Booking_ID">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\User\\git\\api-katalon\\Reports\\20221215_211921\\GET_Booking_ID\\20221215_211921"/>
+         <property name="logFiles" value="C:\\Users\\User\\git\\api-katalon\\Reports\\20221215_211921\\GET_Booking_ID\\20221215_211921\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="User - host.docker.internal"/>
+         <property name="hostAddress" value="192.168.100.13"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.5.2.208"/>
+      </properties>
+      <testcase name="Test Cases/GET_Booking_ID" time="10.31" classname="Test Cases/GET_Booking_ID" status="PASSED">
+         <system-out><![CDATA[2022-12-15 21:19:26 - [TEST_CASE][PASSED] - Test Cases/GET_Booking_ID: Test Cases/GET_Booking_ID
+
+2022-12-15 21:19:27 - [TEST_STEP][PASSED] - sendRequest(findTestObject("GET_Booking_ID")): Send request successfully
+
+2022-12-15 21:19:34 - [MESSAGE][INFO] - HAR: C:\Users\User\git\api-katalon\Reports\20221215_211921\GET_Booking_ID\20221215_211921\requests\main\0.har
+
+2022-12-15 21:19:35 - [MESSAGE][PASSED] - Send request successfully
+
+2022-12-15 21:19:35 - [TEST_STEP][PASSED] - sendRequest(findTestObject("GET_Booking_ID")): Send request successfully
+
+2022-12-15 21:19:37 - [MESSAGE][INFO] - HAR: C:\Users\User\git\api-katalon\Reports\20221215_211921\GET_Booking_ID\20221215_211921\requests\main\1.har
+
+2022-12-15 21:19:37 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/GET_Booking_ID" time="4.1" classname="Test Cases/GET_Booking_ID" status="PASSED">
+         <system-out><![CDATA[2022-12-15 21:19:37 - [TEST_CASE][PASSED] - Test Cases/GET_Booking_ID: Test Cases/GET_Booking_ID
+
+2022-12-15 21:19:37 - [TEST_STEP][PASSED] - sendRequest(findTestObject("GET_Booking_ID")): Send request successfully
+
+2022-12-15 21:19:39 - [MESSAGE][INFO] - HAR: C:\Users\User\git\api-katalon\Reports\20221215_211921\GET_Booking_ID\20221215_211921\requests\main\2.har
+
+2022-12-15 21:19:39 - [MESSAGE][PASSED] - Send request successfully
+
+2022-12-15 21:19:39 - [TEST_STEP][PASSED] - sendRequest(findTestObject("GET_Booking_ID")): Send request successfully
+
+2022-12-15 21:19:41 - [MESSAGE][INFO] - HAR: C:\Users\User\git\api-katalon\Reports\20221215_211921\GET_Booking_ID\20221215_211921\requests\main\3.har
+
+2022-12-15 21:19:41 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/GET_Booking_ID" time="4.102" classname="Test Cases/GET_Booking_ID" status="PASSED">
+         <system-out><![CDATA[2022-12-15 21:19:41 - [TEST_CASE][PASSED] - Test Cases/GET_Booking_ID: Test Cases/GET_Booking_ID
+
+2022-12-15 21:19:41 - [TEST_STEP][PASSED] - sendRequest(findTestObject("GET_Booking_ID")): Send request successfully
+
+2022-12-15 21:19:43 - [MESSAGE][INFO] - HAR: C:\Users\User\git\api-katalon\Reports\20221215_211921\GET_Booking_ID\20221215_211921\requests\main\4.har
+
+2022-12-15 21:19:43 - [MESSAGE][PASSED] - Send request successfully
+
+2022-12-15 21:19:43 - [TEST_STEP][PASSED] - sendRequest(findTestObject("GET_Booking_ID")): Send request successfully
+
+2022-12-15 21:19:45 - [MESSAGE][INFO] - HAR: C:\Users\User\git\api-katalon\Reports\20221215_211921\GET_Booking_ID\20221215_211921\requests\main\5.har
+
+2022-12-15 21:19:45 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-12-15 21:19:26 - [TEST_SUITE][PASSED] - GET_Booking_ID: Test Cases/GET_Booking_ID]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

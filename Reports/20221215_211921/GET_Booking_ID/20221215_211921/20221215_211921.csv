@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+GET_Booking_ID,,,,2022-12-15 21:19:26,2022-12-15 21:19:45,19.155s,PASSED
+,,,,,,,
+Test Cases/GET_Booking_ID,,,,2022-12-15 21:19:26,2022-12-15 21:19:37,10.310s,PASSED
+"sendRequest(findTestObject(""GET_Booking_ID""))",,,,2022-12-15 21:19:27,2022-12-15 21:19:35,7.410s,PASSED
+"sendRequest(findTestObject(""GET_Booking_ID""))",,,,2022-12-15 21:19:35,2022-12-15 21:19:37,2.026s,PASSED
+,,,,,,,
+Test Cases/GET_Booking_ID,,,,2022-12-15 21:19:37,2022-12-15 21:19:41,4.100s,PASSED
+"sendRequest(findTestObject(""GET_Booking_ID""))",,,,2022-12-15 21:19:37,2022-12-15 21:19:39,2.068s,PASSED
+"sendRequest(findTestObject(""GET_Booking_ID""))",,,,2022-12-15 21:19:39,2022-12-15 21:19:41,1.993s,PASSED
+,,,,,,,
+Test Cases/GET_Booking_ID,,,,2022-12-15 21:19:41,2022-12-15 21:19:45,4.102s,PASSED
+"sendRequest(findTestObject(""GET_Booking_ID""))",,,,2022-12-15 21:19:41,2022-12-15 21:19:43,2.038s,PASSED
+"sendRequest(findTestObject(""GET_Booking_ID""))",,,,2022-12-15 21:19:43,2022-12-15 21:19:45,2.037s,PASSED

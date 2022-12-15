@@ -19,3 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WS.sendRequest(findTestObject('GET_Booking_ID'))
 
+WS.sendRequest(findTestObject('GET_Booking_ID'))
+
