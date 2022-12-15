@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_POST_Auth,,,,2022-12-15 20:05:19,2022-12-15 20:05:26,7.577s,PASSED
+,,,,,,,
+Test Cases/POST_Auth,,,,2022-12-15 20:05:20,2022-12-15 20:05:26,6.775s,PASSED
+"sendRequest(findTestObject(""POST_Auth""))",,,,2022-12-15 20:05:20,2022-12-15 20:05:26,6.006s,PASSED

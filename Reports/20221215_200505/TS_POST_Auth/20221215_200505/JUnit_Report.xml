@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS_POST_Auth" time="7.577" tests="1" failures="0" errors="0">
+   <testsuite name="TS_POST_Auth" tests="1" failures="0" errors="0" time="7.577" skipped="0" timestamp="2022-12-15 20:05:19" hostname="User - host.docker.internal" id="Test Suites/TS_POST_Auth">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\User\\git\\api-katalon\\Reports\\20221215_200505\\TS_POST_Auth\\20221215_200505"/>
+         <property name="logFiles" value="C:\\Users\\User\\git\\api-katalon\\Reports\\20221215_200505\\TS_POST_Auth\\20221215_200505\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="User - host.docker.internal"/>
+         <property name="hostAddress" value="192.168.100.13"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.5.2.208"/>
+      </properties>
+      <testcase name="Test Cases/POST_Auth" time="6.775" classname="Test Cases/POST_Auth" status="PASSED">
+         <system-out><![CDATA[2022-12-15 20:05:20 - [TEST_CASE][PASSED] - Test Cases/POST_Auth: Test Cases/POST_Auth
+
+2022-12-15 20:05:20 - [TEST_STEP][PASSED] - sendRequest(findTestObject("POST_Auth")): Send request successfully
+
+2022-12-15 20:05:26 - [MESSAGE][INFO] - HAR: C:\Users\User\git\api-katalon\Reports\20221215_200505\TS_POST_Auth\20221215_200505\requests\main\0.har
+
+2022-12-15 20:05:26 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-12-15 20:05:19 - [TEST_SUITE][PASSED] - TS_POST_Auth: Test Cases/POST_Auth]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
