@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PATCH_PartialUpdateBooking</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>45c79343-8579-40ba-a68d-1ada8f493b0c</testCaseGuid>
+</TestCaseEntity>
